@@ -1,6 +1,6 @@
 package com.example.hiro.myrealm.controllers;
 
-import com.example.hiro.myrealm.User;
+import com.example.hiro.myrealm.models.User;
 import io.realm.Realm;
 import io.realm.RealmQuery;
 import io.realm.RealmResults;

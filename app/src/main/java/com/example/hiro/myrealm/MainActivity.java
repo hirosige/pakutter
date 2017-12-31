@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.util.Log;
 
 import com.example.hiro.myrealm.controllers.UserController;
+import com.example.hiro.myrealm.models.User;
 
 import io.realm.Realm;
 import io.realm.RealmResults;

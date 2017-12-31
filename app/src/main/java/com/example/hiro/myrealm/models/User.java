@@ -1,4 +1,4 @@
-package com.example.hiro.myrealm;
+package com.example.hiro.myrealm.models;
 
 import io.realm.RealmObject;
 
